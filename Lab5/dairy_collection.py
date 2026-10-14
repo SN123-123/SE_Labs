@@ -14,9 +14,9 @@ conn.execute(
 def record_milk(connection, farmer, litres, fat, day):
     """Record a farmer's milk delivery."""
     connection.execute(
-    "INSERT INTO milk (farmer, litres, fat, day) VALUES (?, ?, ?, ?)",
-    (farmer, litres, fat, day),
-)
+        "INSERT INTO milk (farmer, litres, fat, day) VALUES (?, ?, ?, ?)",
+        (farmer, litres, fat, day)
+    )
     connection.commit()
 
 

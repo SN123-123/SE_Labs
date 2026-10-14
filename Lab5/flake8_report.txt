@@ -1,0 +1,7 @@
+[1m.\dairy_collection.py[m[36m:[m2[36m:[m1[36m:[m [1m[31mF401[m 'json' imported but unused
+[1m.\dairy_collection.py[m[36m:[m7[36m:[m80[36m:[m [1m[31mE501[m line too long (104 > 79 characters)
+[1m.\dairy_collection.py[m[36m:[m11[36m:[m80[36m:[m [1m[31mE501[m line too long (124 > 79 characters)
+[1m.\dairy_collection.py[m[36m:[m20[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1m.\dairy_collection.py[m[36m:[m25[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1m.\dairy_collection.py[m[36m:[m26[36m:[m5[36m:[m [1m[31mE741[m ambiguous variable name 'l'
+[1m.\dairy_collection.py[m[36m:[m36[36m:[m41[36m:[m [1m[31mE711[m comparison to None should be 'if cond is None:'
