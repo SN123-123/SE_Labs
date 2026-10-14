@@ -18,4 +18,4 @@
 - Pylint: target score above 9.5/10.
 - Bandit: no reported security issues.
 - Flake8: no reported style violations.
-- The final program should retain the intended milk collection functionality.
+
